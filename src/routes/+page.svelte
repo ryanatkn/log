@@ -1,6 +1,4 @@
 <script lang="ts">
-	import Mreows from '$lib/Mreows.svelte';
-
 	let mreows: Array<{icon: string}> | undefined;
 </script>
 
@@ -24,7 +22,6 @@
 			</li>
 		</ul>
 	</section>
-	<Mreows bind:mreows />
 </main>
 
 <style>
