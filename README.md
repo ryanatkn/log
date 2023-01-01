@@ -4,6 +4,14 @@
 
 **status**: hello world
 
+## intro
+
+I work on open source software fulltime and then some, but most of my thinking happens in private.
+By making more of my process public and designing the UX for people to give feedback,
+I hope to produce better ideas and code with likeminded people.
+My blog will remain a slow moving feed that prioritizes quality,
+and this repo is more of a stream of consciousness with daily notes.
+
 ## develop
 
 > [Windows is not yet supported](https://github.com/feltcoop/felt-template/issues/4)
