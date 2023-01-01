@@ -1,5 +1,5 @@
 <script lang="ts">
-	let mreows: Array<{icon: string}> | undefined;
+	// ...
 </script>
 
 <main class="markup column">
