@@ -9,16 +9,9 @@
 <main class="markup column">
 	<section>
 		<header class="centered-hz">
-			<h1>felt<small><a href="https://github.com/feltcoop">💚</a></small>template</h1>
+			<h1><a href="https://github.com/ryanatkn/log">@ryanatkn/log</a></h1>
 		</header>
-		<Message
-			><span slot="icon"
-				>{#if mreows}{mreows[0].icon}{:else}✨{/if}</span
-			><span
-				>hello, welcome to <a href="https://github.com/feltcoop/felt-template">felt-template</a
-				></span
-			></Message
-		>
+		<p><strong>status:</strong> hello world</p>
 	</section>
 	<Mreows bind:mreows />
 </main>
