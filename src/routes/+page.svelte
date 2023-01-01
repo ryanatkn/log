@@ -1,6 +1,4 @@
 <script lang="ts">
-	import Message from '@feltcoop/felt/Message.svelte';
-
 	import Mreows from '$lib/Mreows.svelte';
 
 	let mreows: Array<{icon: string}> | undefined;
