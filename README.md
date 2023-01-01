@@ -14,7 +14,7 @@ and this repo is more of a stream of consciousness with daily notes.
 
 ## develop
 
-> [Windows is not yet supported](https://github.com/feltcoop/felt-template/issues/4)
+> [Windows is not yet supported](https://github.com/feltcoop/gro/issues/319)
 > (we recommend [WSL](https://docs.microsoft.com/en-us/windows/wsl/about))
 
 ```bash
