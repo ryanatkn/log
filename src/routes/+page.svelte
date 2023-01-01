@@ -13,6 +13,19 @@
 		</header>
 		<p><strong>status:</strong> hello world</p>
 	</section>
+	<section>
+		<div>todo</div>
+		<ul>
+			<li>
+				figure out an authoring flow (a task to make a file? increment like blog, check like
+				migrations?)
+			</li>
+			<li>
+				view both in a canonical form (designed root page, folders) and most recently changed (and
+				other sorting, but mainly reverse chronological)
+			</li>
+		</ul>
+	</section>
 	<Mreows bind:mreows />
 </main>
 
