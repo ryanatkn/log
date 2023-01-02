@@ -1,35 +1,32 @@
 <script lang="ts">
-	// ...
+	import Header from '$lib/Header.svelte';
+	import Footer from '$lib/Footer.svelte';
+	import Bulletins from './Bulletins.svelte';
 </script>
 
-<main class="markup column">
-	<section>
-		<header class="centered-hz">
-			<h1><a href="https://github.com/ryanatkn/log">@ryanatkn/log</a></h1>
-		</header>
-		<p><strong>status:</strong> hello world</p>
-	</section>
-	<section>
-		<div>todo</div>
-		<ul>
-			<li>
-				figure out an authoring flow (a task to make a file? increment like blog, check like
-				migrations?)
-			</li>
-			<li>
-				view both in a canonical form (designed root page, folders) and most recently changed (and
-				other sorting, but mainly reverse chronological)
-			</li>
-		</ul>
-	</section>
+<main>
+	<Header />
+	<div class="markup column">
+		<section>
+			<header class="centered-hz">
+				<h1><a href="https://github.com/ryanatkn/log">@ryanatkn/log</a></h1>
+			</header>
+		</section>
+		<section>
+			<Bulletins />
+		</section>
+	</div>
+	<Footer />
 </main>
 
 <style>
 	main {
+		min-height: 100%;
+		width: 100%;
+		position: relative;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		margin: 0 auto;
 	}
 	h1 {
 		text-align: center;
