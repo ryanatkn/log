@@ -31,4 +31,7 @@
 	h1 {
 		text-align: center;
 	}
+	.column {
+		flex: 1;
+	}
 </style>

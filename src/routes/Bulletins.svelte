@@ -3,6 +3,13 @@
 	import Bullet from '$lib/Bullet.svelte';
 </script>
 
+<Bulletin date="Jan 2 2023">
+	<Bullet>
+		published the first two bulletins here at <a href="https://log.ryanatkn.com">log.ryanatkn.com</a
+		>
+		(<a href="https://github.com/ryanatkn/log">source</a>)
+	</Bullet>
+</Bulletin>
 <Bulletin date="Jan 1 2023">
 	<Bullet>
 		created this project (<a href="https://log.ryanatkn.com">log.ryanatkn.com</a>), source code is
@@ -20,5 +27,11 @@
 		<a href="https://ryanatkn.github.io/ear-sharpener">Ear Sharpener</a> (<a
 			href="https://github.com/ryanatkn/ear-sharpener">source</a
 		>)
+	</Bullet>
+	<Bullet>
+		two days ago I created a long-term project named twc (pronounced "twick") that's the
+		<a href="https://wikipedia.org/wiki/Rich_client">thick web client</a> I want to be using (<a
+			href="https://www.twc.land">twc.land</a
+		>, <a href="https://github.com/ryanatkn/twc">source</a>)
 	</Bullet>
 </Bulletin>

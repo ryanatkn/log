@@ -4,7 +4,7 @@
 </script>
 
 <footer>
-	<a title="View source" href="https://github.com/ryanatkn/ryanatkn.com"
+	<a title="View source" href="https://github.com/ryanatkn/log"
 		><img class="pixelated" {src} {alt} /></a
 	>
 </footer>
