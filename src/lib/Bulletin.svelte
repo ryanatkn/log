@@ -4,7 +4,7 @@
 	export let date: string;
 </script>
 
-<div class="bulletin">
+<div class="bulletin panel markup">
 	<h3>{date}</h3>
 	<ul>
 		<slot />
@@ -12,4 +12,8 @@
 </div>
 
 <style>
+	.bulletin {
+		padding: var(--spacing_xl);
+		margin-bottom: var(--spacing_xl3);
+	}
 </style>

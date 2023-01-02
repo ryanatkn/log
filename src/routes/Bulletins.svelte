@@ -18,7 +18,7 @@
 	<Bullet>
 		started work on an ear training game named Earworm (<a href="https://ryanatkn.github.io/earworm"
 			>ryanatkn.github.io/earworm</a
-		>, <a href="https://github.com/ryanatkn/earworm">source</a>), porting it from
+		>, <a href="https://github.com/ryanatkn/earworm">source</a>), porting code from
 		<a
 			href="https://github.com/ryanatkn/cosmicplayground/commit/331503280c52408f0bbe49ea745b182c5b6ccb67"
 			>an old prototype</a

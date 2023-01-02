@@ -6,10 +6,10 @@
 
 <main>
 	<Header />
-	<div class="markup column">
+	<div class=" column">
 		<section>
 			<header class="centered-hz">
-				<h1><a href="https://github.com/ryanatkn/log">@ryanatkn/log</a></h1>
+				<h1><a class="panel padded-xl" href="https://github.com/ryanatkn/log">@ryanatkn/log</a></h1>
 			</header>
 		</section>
 		<section>
@@ -28,8 +28,14 @@
 		flex-direction: column;
 		align-items: center;
 	}
-	h1 {
+	header {
 		text-align: center;
+		margin: var(--spacing_xl3) 0;
+	}
+	@media (max-width: 400px) {
+		h1 {
+			font-size: var(--font_size_xl2);
+		}
 	}
 	.column {
 		flex: 1;
