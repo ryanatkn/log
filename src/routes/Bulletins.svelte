@@ -29,8 +29,12 @@
 		>)
 	</Bullet>
 	<Bullet>
+		in <a href="https://github.com/feltcoop/felt-server/pull/643">@feltcoop/felt-server#632</a> I improved
+		the ability to create a community and its initial objects from JSON data
+	</Bullet>
+	<Bullet>
 		two days ago I created a long-term project named twc (pronounced "twick") that's the
-		<a href="https://wikipedia.org/wiki/Rich_client">thick web client</a> I want to be using (<a
+		<a href="https://wikipedia.org/wiki/Rich_client">thick</a> web client I want to be using (<a
 			href="https://www.twc.land">twc.land</a
 		>, <a href="https://github.com/ryanatkn/twc">source</a>)
 	</Bullet>

@@ -2,11 +2,12 @@
 
 > @ryanatkn's dev log - [log.ryanatkn.com](https://log.ryanatkn.com)
 
-**status**: hello world
-
 ## intro
 
-I work on open source software fulltime and then some, but most of my thinking happens in private.
+I work on open source software both professionally and as a hobby,
+and I'm publicly posting almost all the code I write all day,
+but most of my thinking happens in private,
+hidden away from the people who may want to use my software.
 By making more of my process public and interactive and open to feedback,
 I hope to produce better ideas and code with likeminded people.
 My blog will remain a slow moving feed that prioritizes quality,
