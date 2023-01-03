@@ -34,7 +34,8 @@
 		>)
 	</Bullet>
 	<Bullet>
-		improved the ability to create a Felt community and its initial objects from JSON data (<a
+		improved the ability to create a <a href="https://github.com/feltcoop/felt-server">Felt</a>
+		community and its initial objects from JSON data (<a
 			href="https://github.com/feltcoop/felt-server/pull/643">@feltcoop/felt-server#632</a
 		>)
 	</Bullet>
