@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>@ryanatkn/log</title>
+	<title>log.ryanatkn.com</title>
 	<link rel="icon" href="{base}/favicon.png" />
 </svelte:head>
 

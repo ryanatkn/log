@@ -1,20 +1,20 @@
-# @ryanatkn/log
+# log.ryanatkn.com
 
 > @ryanatkn's dev log - [log.ryanatkn.com](https://log.ryanatkn.com)
 
-**status**: hello world
-
 ## intro
 
-I work on open source software fulltime and then some, but most of my thinking happens in private.
-By making more of my process public and interactive and open to feedback,
-I hope to produce better ideas and code with likeminded people.
-My blog will remain a slow moving feed that prioritizes quality,
-and this repo is more of a stream of consciousness with daily notes.
+I work on open source software both as a fulltime profession and as a hobby.
+I started [log.ryanatkn.com](https://log.ryanatkn.com) with the hope that
+by making more of my process public and open to feedback,
+I'll produce better ideas and code with likeminded people.
+[My blog](https//www.ryanatkn.com/) remains a slow moving feed that prioritizes quality,
+and this website has some daily notes and highlights.
+(comments or questions? email me! mail@ryanatkn.com)
 
 ## develop
 
-> [Windows is not yet supported](https://github.com/feltcoop/felt-template/issues/4)
+> [Windows is not yet supported](https://github.com/feltcoop/gro/issues/319)
 > (we recommend [WSL](https://docs.microsoft.com/en-us/windows/wsl/about))
 
 ```bash
