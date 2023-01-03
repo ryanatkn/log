@@ -5,14 +5,12 @@
 ## intro
 
 I work on open source software both as a fulltime profession and as a hobby.
-I publicly post almost all of the code I write to the internet,
-but most of my thinking happens in private,
-isolated from the people who may want to use my software.
 I started [log.ryanatkn.com](https://log.ryanatkn.com) with the hope that
 by making more of my process public and open to feedback,
 I'll produce better ideas and code with likeminded people.
 [My blog](https//www.ryanatkn.com/) remains a slow moving feed that prioritizes quality,
 and this website has some daily notes and highlights.
+(comments or questions? email me! mail@ryanatkn.com)
 
 ## develop
 

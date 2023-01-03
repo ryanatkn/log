@@ -5,10 +5,13 @@
 
 <Bulletin date="Jan 2 2023">
 	<Bullet>
-		published the first two bulletins here at <a href="https://log.ryanatkn.com">log.ryanatkn.com</a
+		designed the bulletin here at
+		<a href="https://github.com/ryanatkn/log/pull/1">@ryanatkn/log#1</a>
+	</Bullet>
+	<Bullet>
+		published the first three bulletins here at <a href="https://log.ryanatkn.com"
+			>log.ryanatkn.com</a
 		>
-		(<a href="https://github.com/ryanatkn/log">source</a>,
-		<a href="https://github.com/ryanatkn/log/pull/1">@ryanatkn/log#1</a>)
 	</Bullet>
 </Bulletin>
 <Bulletin date="Jan 1 2023">
@@ -35,8 +38,10 @@
 			href="https://github.com/feltcoop/felt-server/pull/643">@feltcoop/felt-server#632</a
 		>)
 	</Bullet>
+</Bulletin>
+<Bulletin date="Dec 30 2022">
 	<Bullet>
-		two days ago I created a long-term project named twc (pronounced "twick") that's the
+		created a long-term project named twc (pronounced "twick") that's the
 		<a href="https://wikipedia.org/wiki/Rich_client">thick</a> web client I want to be using (<a
 			href="https://www.twc.land">twc.land</a
 		>, <a href="https://github.com/ryanatkn/twc">source</a>)
