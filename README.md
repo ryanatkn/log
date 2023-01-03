@@ -4,7 +4,7 @@
 
 ## intro
 
-I work on open source software both professionally and as a hobby,
+I work on open source software both as a fulltime profession and as a hobby,
 and I'm publicly posting almost all the code I write all day,
 but most of my thinking happens in private,
 hidden away from the people who may want to use my software.
