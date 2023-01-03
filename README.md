@@ -1,6 +1,6 @@
 # log.ryanatkn.com
 
-> @ryanatkn's dev log - [log.ryanatkn.com](https://log.ryanatkn.com)
+> @ryanatkn's devlog - [log.ryanatkn.com](https://log.ryanatkn.com)
 
 ## intro
 
