@@ -7,7 +7,8 @@
 	<Bullet>
 		published the first two bulletins here at <a href="https://log.ryanatkn.com">log.ryanatkn.com</a
 		>
-		(<a href="https://github.com/ryanatkn/log">source</a>)
+		(<a href="https://github.com/ryanatkn/log">source</a>,
+		<a href="https://github.com/ryanatkn/log/pull/1">@ryanatkn/log#1</a>)
 	</Bullet>
 </Bulletin>
 <Bulletin date="Jan 1 2023">
