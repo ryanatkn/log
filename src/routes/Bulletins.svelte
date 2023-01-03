@@ -5,8 +5,9 @@
 
 <Bulletin date="Jan 2 2023">
 	<Bullet>
-		designed the bulletin here at
-		<a href="https://github.com/ryanatkn/log/pull/1">@ryanatkn/log#1</a>
+		designed and implemented this website's bulletins (<a
+			href="https://github.com/ryanatkn/log/pull/1">@ryanatkn/log#1</a
+		>)
 	</Bullet>
 	<Bullet>
 		published the first three bulletins here at <a href="https://log.ryanatkn.com"
@@ -16,9 +17,8 @@
 </Bulletin>
 <Bulletin date="Jan 1 2023">
 	<Bullet>
-		created this project to log my doings (<a href="https://log.ryanatkn.com">log.ryanatkn.com</a>),
-		source code is
-		<a href="https://github.com/ryanatkn/log">github.com/ryanatkn/log</a>
+		created this project to log my doings (<a href="https://log.ryanatkn.com">log.ryanatkn.com</a>,
+		<a href="https://github.com/ryanatkn/log">source</a>)
 	</Bullet>
 	<Bullet>
 		started work on an ear training game named Earworm (<a href="https://ryanatkn.github.io/earworm"
