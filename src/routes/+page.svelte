@@ -6,12 +6,13 @@
 
 <main>
 	<Header />
-	<div class=" column">
-		<section>
-			<header class="centered-hz">
-				<h1><a class="panel padded-xl" href="https://github.com/ryanatkn/log">@ryanatkn/log</a></h1>
+	<div class="column">
+		<div class="centered-hz">
+			<header class="panel">
+				<h1>log.ryanatkn.com</h1>
+				<div><a href="https://github.com/ryanatkn/log">source</a></div>
 			</header>
-		</section>
+		</div>
 		<section>
 			<Bulletins />
 		</section>
@@ -29,8 +30,15 @@
 		align-items: center;
 	}
 	header {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 		text-align: center;
 		margin: var(--spacing_xl3) 0;
+		padding: var(--spacing_xl);
+	}
+	h1 {
+		margin-bottom: var(--spacing_xs);
 	}
 	@media (max-width: 400px) {
 		h1 {

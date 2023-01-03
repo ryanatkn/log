@@ -12,7 +12,8 @@
 </Bulletin>
 <Bulletin date="Jan 1 2023">
 	<Bullet>
-		created this project (<a href="https://log.ryanatkn.com">log.ryanatkn.com</a>), source code is
+		created this project to log my doings (<a href="https://log.ryanatkn.com">log.ryanatkn.com</a>),
+		source code is
 		<a href="https://github.com/ryanatkn/log">github.com/ryanatkn/log</a>
 	</Bullet>
 	<Bullet>
@@ -29,8 +30,9 @@
 		>)
 	</Bullet>
 	<Bullet>
-		in <a href="https://github.com/feltcoop/felt-server/pull/643">@feltcoop/felt-server#632</a> I improved
-		the ability to create a community and its initial objects from JSON data
+		improved the ability to create a Felt community and its initial objects from JSON data (<a
+			href="https://github.com/feltcoop/felt-server/pull/643">@feltcoop/felt-server#632</a
+		>)
 	</Bullet>
 	<Bullet>
 		two days ago I created a long-term project named twc (pronounced "twick") that's the
