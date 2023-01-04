@@ -3,6 +3,16 @@
 	import Bullet from '$lib/Bullet.svelte';
 </script>
 
+<Bulletin date="Jan 3 2023">
+	<Bullet>
+		created <a href="https://ryanatkn.github.io/svelte-store-study">Svelte store study</a> for
+		assessing several <a href="https://svelte.dev/docs#run-time-svelte-store">Svelte stores</a> 🧡
+		<a href="https://github.com/ryanatkn/svelte-store-study">source</a>,
+		<a href="https://github.com/ryanatkn/svelte-store-study/pull/1"
+			>@ryanatkn/svelte-store-study#1</a
+		>
+	</Bullet>
+</Bulletin>
 <Bulletin date="Jan 2 2023">
 	<Bullet>
 		designed and implemented this website's bulletins (<a
