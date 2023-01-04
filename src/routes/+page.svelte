@@ -10,7 +10,14 @@
 		<div class="centered-hz">
 			<header class="panel">
 				<h1>log.ryanatkn.com</h1>
-				<div><a href="https://github.com/ryanatkn/log">source</a></div>
+				<menu>
+					<li>
+						<a href="https://www.ryanatkn.com/">home</a>
+					</li>
+					<li>
+						<a href="https://github.com/ryanatkn/log">source</a>
+					</li>
+				</menu>
 			</header>
 		</div>
 		<section>
@@ -47,5 +54,11 @@
 	}
 	.column {
 		flex: 1;
+	}
+	menu {
+		display: flex;
+	}
+	menu > li:not(:last-child) {
+		margin-right: var(--spacing_xl);
 	}
 </style>
