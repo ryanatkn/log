@@ -4,7 +4,7 @@
 
 ## intro
 
-I work on open source software both as a fulltime profession and as a hobby.
+I work on open source software both as a full-time profession and as a hobby.
 I started [log.ryanatkn.com](https://log.ryanatkn.com) with the hope that
 by making more of my process public and open to feedback,
 I'll produce better ideas and code with likeminded people.
