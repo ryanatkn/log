@@ -3,6 +3,22 @@
 	import Bullet from '$lib/Bullet.svelte';
 </script>
 
+<Bulletin date="Jan 8 2023">
+	<Bullet>
+		fixed a rendering performance problem in <a href="https://www.cosmicplayground.org/soggy-planet"
+			>Soggy Planet</a
+		>
+		in <a href="https://www.cosmicplayground.org/">cosmicplayground</a>, closing
+		<a href="https://github.com/ryanatkn/cosmicplayground/issues/56">this issue</a>
+		with <a href="https://github.com/ryanatkn/cosmicplayground/pull/65">this PR</a> - the fix had me
+		write
+		<a
+			href="https://github.com/ryanatkn/cosmicplayground/blob/a8af730bdb7fe4efe3c985ea96db2c7074e0bec9/src/lib/app/EarthViewerPixi.svelte#L177"
+			>my first WebGL shader!</a
+		> The code isn't great but it works, and I'll be able to use this pattern for more performance improvements
+		and new rendering capabilities
+	</Bullet>
+</Bulletin>
 <Bulletin date="Jan 3 2023">
 	<Bullet>
 		created <a href="https://ryanatkn.github.io/svelte-store-study">Svelte store study</a> for
