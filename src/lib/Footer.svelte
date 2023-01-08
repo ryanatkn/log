@@ -17,6 +17,7 @@
 		width: 100%;
 		height: 360px;
 		overflow: hidden;
+		margin-top: var(--spacing_xl5);
 	}
 	a {
 		width: 100%;
@@ -30,8 +31,12 @@
 		transform: scale3d(0.99, 0.99, 0.99);
 	}
 	img {
+		position: relative;
+		top: 15px;
 		width: 1600px;
 		height: 1600px;
 		min-width: 1600px;
+		transform-origin: center;
+		animation: rotating 1667s linear infinite;
 	}
 </style>

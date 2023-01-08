@@ -6,3 +6,14 @@ body {
 	height: 100%;
 	min-height: 100%;
 }
+
+/* offset to avoid visual artifacts on init,
+probably fixable with a better image, I tried briefly but didn't get a great result */
+@keyframes rotating {
+	from {
+		transform: rotate3d(0, 0, 1, 42deg);
+	}
+	to {
+		transform: rotate3d(0, 0, 1, 402deg);
+	}
+}
