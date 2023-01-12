@@ -7,8 +7,8 @@
 	<Bullet>
 		published a repo with setup instructions and resources for my dev environment: <a
 			href="https://github.com/ryanatkn/setup">github.com/ryanatkn/setup</a
-		></Bullet
-	>
+		>
+	</Bullet>
 </Bulletin>
 <Bulletin date="Jan 8 2023">
 	<Bullet>
