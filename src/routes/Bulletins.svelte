@@ -3,6 +3,11 @@
 	import Bullet from '$lib/Bullet.svelte';
 </script>
 
+<Bulletin date="Jan 11 2023">
+	published a repo with setup instructions and resources for my dev environment: <a
+		href="https://github.com/ryanatkn/setup">github.com/ryanatkn/setup</a
+	>
+</Bulletin>
 <Bulletin date="Jan 8 2023">
 	<Bullet>
 		fixed a rendering performance problem in <a href="https://www.cosmicplayground.org/soggy-planet"
