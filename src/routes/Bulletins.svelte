@@ -8,7 +8,8 @@
 <Bulletin date="Jan 17 2023">
 	<Bullet>
 		added the <code>Board</code> view to Felt - it's like a chat room but upside-down, so the input
-		is at the top and content flows downward reverse-chronologically, and replies are nested:
+		is at the top and content flows downward, replies are nested, and the newest posts and replies
+		appear at the top:
 		<a href="https://github.com/feltcoop/felt-server/pull/663"
 			>github.com/feltcoop/felt-server/pull/663</a
 		>
