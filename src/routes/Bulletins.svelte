@@ -1,8 +1,20 @@
 <script lang="ts">
+	import {base} from '$app/paths';
+
 	import Bulletin from '$lib/Bulletin.svelte';
 	import Bullet from '$lib/Bullet.svelte';
 </script>
 
+<Bulletin date="Jan 17 2023">
+	<Bullet>
+		added the <code>Board</code> view to Felt - it's like a chat room but upside-down, so the input
+		is at the top and content flows downward reverse-chronologically, and replies are nested:
+		<a href="https://github.com/feltcoop/felt-server/pull/663"
+			>github.com/feltcoop/felt-server/pull/663</a
+		>
+		<img src="{base}/images/felt-board.webp" alt="a screenshot of the board" />
+	</Bullet>
+</Bulletin>
 <Bulletin date="Jan 11 2023">
 	<Bullet>
 		published a repo with setup instructions and resources for my dev environment: <a
