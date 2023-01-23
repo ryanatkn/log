@@ -5,6 +5,49 @@
 	import Bullet from '$lib/Bullet.svelte';
 </script>
 
+<Bulletin date="Jan 22 2023">
+	<Bullet>
+		posted my Svelte 4 wishlist to
+		<a href="https://np.reddit.com/r/sveltejs/comments/10iud65/comment/j5hh1wi/"
+			>a Reddit thread in /r/sveltejs</a
+		>:
+		<blockquote>
+			<ul>
+				<li>
+					an opt-in way to better scale components (this has been mentioned by the team - I'd love
+					to construct Svelte components from data without the compiler! no idea how feasible that
+					is. this could be a path for end users to "author" Svelte components without sandboxing)
+				</li>
+				<li>
+					iterators for <code>#each</code> or similar construct (<code>#iterate</code>?) (it'd be
+					really nice to render sets/maps/etc without waste)
+				</li>
+				<li>my two favorite RFCs are inline components and directive forwarding</li>
+				<li>
+					shorthand style properties <code>style:--some_css_var</code> (I don't care about using kebab-case
+					specifically for CSS vars, I think this wasn't implemented because of that, but +1 for snake_case
+					CSS vars)
+				</li>
+				<li>
+					whitespace handling (inherited from HTML, so very unlikely to change I think), sometimes
+					significant whitespace causes problems, and the fix makes the code much less readable,
+					it's one of the only things I miss from JSX
+				</li>
+				<li>
+					I don't have specific suggestions but slots have some limitations that would be cool to
+					see lifted - generally I suspect there's room for more stuff that's optimal on the happy
+					path, but you can opt into advanced stuff that's slower but more powerful (although I know
+					the team likes their best-of-all-worlds designs!)
+				</li>
+				<li>
+					the syntax to pass CSS vars directly to components breaks things like <code
+						>:last-child</code
+					> and other selectors, I think it may be an intractable problem tho
+				</li>
+			</ul>
+		</blockquote>
+	</Bullet>
+</Bulletin>
 <Bulletin date="Jan 17 2023">
 	<Bullet>
 		added the <code>Board</code> view to Felt - it's like a chat room but upside-down, so the input
