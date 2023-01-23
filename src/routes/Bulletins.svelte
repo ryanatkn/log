@@ -16,7 +16,8 @@
 				<li>
 					an opt-in way to better scale components (this has been mentioned by the team - I'd love
 					to construct Svelte components from data without the compiler! no idea how feasible that
-					is. this could be a path for end users to "author" Svelte components without sandboxing)
+					is. this could be a path for end users to "author" Svelte components without sandboxing
+					(with limits, but the way I do this today is much worse)
 				</li>
 				<li>
 					iterators for <code>#each</code> or similar construct (<code>#iterate</code>?) (it'd be
