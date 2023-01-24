@@ -5,6 +5,16 @@
 	import Bullet from '$lib/Bullet.svelte';
 </script>
 
+<Bulletin date="Jan 23 2023">
+	<Bullet>
+		moved most of our projects on GitHub from <a href="https://github.com/feltcoop">@feltcoop</a> to
+		<a href="https://github.com/feltjs">@feltjs</a>, which will be a nonprofit, tightening
+		@feltcoop's scope to be a platform operator at
+		<a href="https://www.felt.social/">felt.social</a> (still with the goal to be a
+		<a href="https://platform.coop">platform co-op</a>), and making @feltjs and its repos a
+		community project more explicitly
+	</Bullet>
+</Bulletin>
 <Bulletin date="Jan 22 2023">
 	<Bullet>
 		posted my Svelte 4 wishlist to
