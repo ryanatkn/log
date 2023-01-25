@@ -23,6 +23,12 @@
 </Digest>
 <Digest date="Jan 22 2023">
 	<DigestItem>
+		posted the first draft of my second blog post, <a
+			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
+			>Modeling virtual social spaces: in this house we post cat pics on Saturday</a
+		>
+	</DigestItem>
+	<DigestItem>
 		posted my Svelte 4 wishlist to
 		<a href="https://np.reddit.com/r/sveltejs/comments/10iud65/comment/j5hh1wi/"
 			>a Reddit thread in /r/sveltejs</a
