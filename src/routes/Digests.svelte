@@ -8,7 +8,7 @@
 <Digest date="Jan 24 2023">
 	<DigestItem>
 		renamed this project's main building block from <code>Bulletin</code> to <code>Digest</code>,
-		seems nicer
+		seems friendlier and better for puns
 	</DigestItem>
 </Digest>
 <Digest date="Jan 23 2023">
