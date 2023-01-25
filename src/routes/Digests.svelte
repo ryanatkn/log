@@ -1,22 +1,28 @@
 <script lang="ts">
 	import {base} from '$app/paths';
 
-	import Bulletin from '$lib/Bulletin.svelte';
-	import Bullet from '$lib/Bullet.svelte';
+	import Digest from '$lib/Digest.svelte';
+	import DigestItem from '$lib/DigestItem.svelte';
 </script>
 
-<Bulletin date="Jan 23 2023">
-	<Bullet>
+<Digest date="Jan 24 2023">
+	<DigestItem>
+		renamed this project's main building block from <code>Bulletin</code> to <code>Digest</code>,
+		seems nicer
+	</DigestItem>
+</Digest>
+<Digest date="Jan 23 2023">
+	<DigestItem>
 		moved most of our projects on GitHub from <a href="https://github.com/feltcoop">@feltcoop</a> to
 		<a href="https://github.com/feltjs">@feltjs</a>, which will be a nonprofit, tightening
 		@feltcoop's scope to be a platform operator at
 		<a href="https://www.felt.social/">felt.social</a> (still with the goal to be a
 		<a href="https://platform.coop">platform co-op</a>), and making @feltjs and its repos a
 		community project more explicitly
-	</Bullet>
-</Bulletin>
-<Bulletin date="Jan 22 2023">
-	<Bullet>
+	</DigestItem>
+</Digest>
+<Digest date="Jan 22 2023">
+	<DigestItem>
 		posted my Svelte 4 wishlist to
 		<a href="https://np.reddit.com/r/sveltejs/comments/10iud65/comment/j5hh1wi/"
 			>a Reddit thread in /r/sveltejs</a
@@ -56,10 +62,10 @@
 				</li>
 			</ul>
 		</blockquote>
-	</Bullet>
-</Bulletin>
-<Bulletin date="Jan 17 2023">
-	<Bullet>
+	</DigestItem>
+</Digest>
+<Digest date="Jan 17 2023">
+	<DigestItem>
 		added the <code>Board</code> view to Felt - it's like a chat room but upside-down, so the input
 		is at the top and content flows downward, replies are nested, and the newest posts and replies
 		appear at the top:
@@ -67,22 +73,22 @@
 			>github.com/feltcoop/felt-server/pull/663</a
 		>
 		<img src="{base}/images/felt-board.webp" alt="a screenshot of the board" />
-	</Bullet>
-</Bulletin>
-<Bulletin date="Jan 11 2023">
-	<Bullet>
+	</DigestItem>
+</Digest>
+<Digest date="Jan 11 2023">
+	<DigestItem>
 		published a repo with setup instructions and resources for my dev environment: <a
 			href="https://github.com/ryanatkn/setup">github.com/ryanatkn/setup</a
 		>
-	</Bullet>
-	<Bullet>
+	</DigestItem>
+	<DigestItem>
 		merged a pull request with a change that was suggested by an AI for the first time: <a
 			href="https://github.com/ryanatkn/setup/pull/2">github.com/ryanatkn/setup/pull/2</a
 		>
-	</Bullet>
-</Bulletin>
-<Bulletin date="Jan 8 2023">
-	<Bullet>
+	</DigestItem>
+</Digest>
+<Digest date="Jan 8 2023">
+	<DigestItem>
 		fixed a rendering performance problem in <a href="https://www.cosmicplayground.org/soggy-planet"
 			>Soggy Planet</a
 		>
@@ -95,36 +101,35 @@
 			>my first WebGL shader!</a
 		> The code isn't great but it works, and I'll be able to use this pattern for more performance improvements
 		and new rendering capabilities
-	</Bullet>
-</Bulletin>
-<Bulletin date="Jan 3 2023">
-	<Bullet>
+	</DigestItem>
+</Digest>
+<Digest date="Jan 3 2023">
+	<DigestItem>
 		created <a href="https://ryanatkn.github.io/svelte-store-study">Svelte store study</a> for
 		assessing several <a href="https://svelte.dev/docs#run-time-svelte-store">Svelte stores</a> 🧡
 		<a href="https://github.com/ryanatkn/svelte-store-study">source</a>,
 		<a href="https://github.com/ryanatkn/svelte-store-study/pull/1"
 			>@ryanatkn/svelte-store-study#1</a
 		>
-	</Bullet>
-</Bulletin>
-<Bulletin date="Jan 2 2023">
-	<Bullet>
-		designed and implemented this website's bulletins (<a
+	</DigestItem>
+</Digest>
+<Digest date="Jan 2 2023">
+	<DigestItem>
+		designed and implemented this website's digests (<a
 			href="https://github.com/ryanatkn/log/pull/1">@ryanatkn/log#1</a
 		>)
-	</Bullet>
-	<Bullet>
-		published the first three bulletins here at <a href="https://log.ryanatkn.com"
-			>log.ryanatkn.com</a
+	</DigestItem>
+	<DigestItem>
+		published the first three digests here at <a href="https://log.ryanatkn.com">log.ryanatkn.com</a
 		>
-	</Bullet>
-</Bulletin>
-<Bulletin date="Jan 1 2023">
-	<Bullet>
+	</DigestItem>
+</Digest>
+<Digest date="Jan 1 2023">
+	<DigestItem>
 		created this project to log my doings (<a href="https://log.ryanatkn.com">log.ryanatkn.com</a>,
 		<a href="https://github.com/ryanatkn/log">source</a>)
-	</Bullet>
-	<Bullet>
+	</DigestItem>
+	<DigestItem>
 		started work on an ear training game named Earworm (<a href="https://ryanatkn.github.io/earworm"
 			>ryanatkn.github.io/earworm</a
 		>, <a href="https://github.com/ryanatkn/earworm">source</a>), porting code from
@@ -136,19 +141,19 @@
 		<a href="https://ryanatkn.github.io/ear-sharpener">Ear Sharpener</a> (<a
 			href="https://github.com/ryanatkn/ear-sharpener">source</a
 		>)
-	</Bullet>
-	<Bullet>
+	</DigestItem>
+	<DigestItem>
 		improved the ability to create a <a href="https://github.com/feltcoop/felt-server">Felt</a>
 		community and its initial objects from JSON data (<a
 			href="https://github.com/feltcoop/felt-server/pull/643">@feltcoop/felt-server#632</a
 		>)
-	</Bullet>
-</Bulletin>
-<Bulletin date="Dec 30 2022">
-	<Bullet>
+	</DigestItem>
+</Digest>
+<Digest date="Dec 30 2022">
+	<DigestItem>
 		created a long-term project named twc (pronounced "twick") that's the
 		<a href="https://wikipedia.org/wiki/Rich_client">thick</a> web client I want to be using (<a
 			href="https://www.twc.land">twc.land</a
 		>, <a href="https://github.com/ryanatkn/twc">source</a>)
-	</Bullet>
-</Bulletin>
+	</DigestItem>
+</Digest>

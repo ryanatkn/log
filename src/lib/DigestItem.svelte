@@ -1,12 +1,13 @@
 <script lang="ts">
-	// An item in a `Bulletin`.
+	// An item in a `Digest`.
 </script>
 
-<li class="bullet">
+<li>
 	<slot />
 </li>
 
 <style>
+	/* TODO hm */
 	li :global(img) {
 		display: block;
 		margin-top: var(--spacing_xs);

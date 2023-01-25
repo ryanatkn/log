@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Header from './Header.svelte';
 	import Footer from './Footer.svelte';
-	import Bulletins from './Bulletins.svelte';
+	import Digests from './Digests.svelte';
 </script>
 
 <main>
@@ -21,7 +21,7 @@
 			</header>
 		</div>
 		<section>
-			<Bulletins />
+			<Digests />
 		</section>
 	</div>
 	<Footer />
