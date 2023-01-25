@@ -6,13 +6,13 @@
 		<meta http-equiv="content-security-policy" content="">
 		<link href="./_app/immutable/assets/_layout-246a43f0.css" rel="stylesheet">
 		<link href="./_app/immutable/assets/_page-75f9e7f8.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/start-36976f2c.js">
+		<link rel="modulepreload" href="./_app/immutable/start-06ac84d6.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/shared-754331ab.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/singletons-6665fadc.js">
 		<link rel="modulepreload" href="./_app/immutable/components/pages/_layout.svelte-d928f6b4.js">
 		<link rel="modulepreload" href="./_app/immutable/modules/pages/_layout.ts-9cbb603b.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/_layout-da46b06b.js">
-		<link rel="modulepreload" href="./_app/immutable/components/pages/_page.svelte-7c81e77d.js"><title>log.ryanatkn.com</title><!-- HEAD_svelte-1b7u613_START --><link rel="icon" href="/favicon.png"><!-- HEAD_svelte-1b7u613_END -->
+		<link rel="modulepreload" href="./_app/immutable/components/pages/_page.svelte-aec954e6.js"><title>log.ryanatkn.com</title><!-- HEAD_svelte-1b7u613_START --><link rel="icon" href="/favicon.png"><!-- HEAD_svelte-1b7u613_END -->
 	</head>
 	<body>
 		<div style="display: contents">
@@ -38,27 +38,26 @@
 <div class="bulletin panel markup svelte-tjznc6"><h3>Jan 22 2023</h3>
 	<ul><li class="bullet svelte-pdqwd1">posted my Svelte 4 wishlist to
 		<a href="https://np.reddit.com/r/sveltejs/comments/10iud65/comment/j5hh1wi/">a Reddit thread in /r/sveltejs</a>:
-		<blockquote><ul><li>an opt-in way to better scale components (this has been mentioned by the team - I&#39;d love
-					to construct Svelte components from data without the compiler! no idea how feasible that
-					is. this could be a path for end users to &quot;author&quot; Svelte components without sandboxing
-					(with limits, but the way I do this today is much worse)
+		<blockquote><ul><li>an opt-in way to better scale components - this has been mentioned by the team. I&#39;d love
+					to construct Svelte components from data without the compiler! I have no idea how feasible
+					that is but it might be enabled by this feature. This could be a path for end users to
+					&quot;author&quot; Svelte components without sandboxing or the compiler (with limits, but the way I
+					do this today with an AST+component is much worse).
 				</li>
-				<li>iterators for <code>#each</code> or similar construct (<code>#iterate</code>?) (it&#39;d be
-					really nice to render sets/maps/etc without waste)
+				<li>iterator support for <code>#each</code> or a similar construct (<code>#iterate</code>?
+					it&#39;d be nice to render sets/maps/etc without waste)
 				</li>
 				<li>my two favorite RFCs are inline components and directive forwarding</li>
-				<li>shorthand style properties <code>style:--some_css_var</code> (I don&#39;t care about using kebab-case
-					specifically for CSS vars, I think this wasn&#39;t implemented because of that, but +1 for snake_case
-					CSS vars)
+				<li>shorthand style properties <code>style:--some_css_var</code> (without the
+					<code>={var}</code> part - I don&#39;t care about using kebab-case specifically for CSS vars,
+					I think this wasn&#39;t implemented because of that, but +1 for snake_case CSS vars)
 				</li>
 				<li>whitespace handling (inherited from HTML, so very unlikely to change I think), sometimes
 					significant whitespace causes problems, and the fix makes the code much less readable,
 					it&#39;s one of the only things I miss from JSX
 				</li>
 				<li>I don&#39;t have specific suggestions but slots have some limitations that would be cool to
-					see lifted - generally I suspect there&#39;s room for more stuff that&#39;s optimal on the happy
-					path, but you can opt into advanced stuff that&#39;s slower but more powerful (although I know
-					the team likes their best-of-all-worlds designs!)
+					see lifted
 				</li>
 				<li>the syntax to pass CSS vars directly to components breaks things like <code>:last-child</code> and other selectors, I think it may be an intractable problem tho
 				</li></ul></blockquote>
@@ -130,14 +129,14 @@
 </main>
 
 
-		<script type="module" data-sveltekit-hydrate="111t9dr">
-			import { start } from "./_app/immutable/start-36976f2c.js";
+		<script type="module" data-sveltekit-hydrate="yorb77">
+			import { start } from "./_app/immutable/start-06ac84d6.js";
 
 			start({
 				env: {},
 				paths: {"assets":"","base":""},
-				target: document.querySelector('[data-sveltekit-hydrate="111t9dr"]').parentNode,
-				version: "1674571714076",
+				target: document.querySelector('[data-sveltekit-hydrate="yorb77"]').parentNode,
+				version: "1674607883679",
 				hydrate: {
 					node_ids: [0, 2],
 					data: [null,null],
