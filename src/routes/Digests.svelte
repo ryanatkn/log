@@ -8,7 +8,10 @@
 <Digest date="Jan 24 2023">
 	<DigestItem>
 		renamed this project's main building block from <code>Bulletin</code> to <code>Digest</code>,
-		seems friendlier and better for puns
+		seems friendlier and better for puns (<a
+			href="https://github.com/ryanatkn/log/commit/63214e4a6ae2a1d196b3565b13f3fd6fb55a48ce"
+			>commit</a
+		>)
 	</DigestItem>
 </Digest>
 <Digest date="Jan 23 2023">
