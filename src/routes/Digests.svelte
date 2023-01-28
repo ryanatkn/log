@@ -5,6 +5,15 @@
 	import DigestItem from '$lib/DigestItem.svelte';
 </script>
 
+<Digest date="Jan 28 2023">
+	<DigestItem>
+		revised and <a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a> about
+		<a
+			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
+			>my second blog post</a
+		>, "Modeling virtual social spaces: in this house we post cat pics on Saturday"
+	</DigestItem>
+</Digest>
 <Digest date="Jan 24 2023">
 	<DigestItem>
 		renamed this project's main building block from <code>Bulletin</code> to <code>Digest</code>,
