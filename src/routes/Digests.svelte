@@ -3,6 +3,8 @@
 
 	import Digest from '$lib/Digest.svelte';
 	import DigestItem from '$lib/DigestItem.svelte';
+
+	// TODO change this so each `DigestItem` is a separate component, and drive everything with data
 </script>
 
 <Digest date="Jan 28 2023">
