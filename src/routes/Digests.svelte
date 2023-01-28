@@ -20,7 +20,7 @@
 		<a href="https://github.com/feltjs">@feltjs</a>, which will be a nonprofit, tightening
 		@feltcoop's scope to be a platform operator at
 		<a href="https://www.felt.social/">felt.social</a> (still with the goal to be a
-		<a href="https://platform.coop">platform co-op</a>), and making @feltjs and its repos a
+		<a href="https://platform.coop/">platform co-op</a>), and making @feltjs and its repos a
 		community project more explicitly
 	</DigestItem>
 </Digest>
@@ -78,8 +78,8 @@
 		added the <code>Board</code> view to Felt - it's like a chat room but upside-down, so the input
 		is at the top and content flows downward, replies are nested, and the newest posts and replies
 		appear at the top:
-		<a href="https://github.com/feltcoop/felt-server/pull/663"
-			>github.com/feltcoop/felt-server/pull/663</a
+		<a href="https://github.com/feltjs/felt-server/pull/663"
+			>github.com/feltjs/felt-server/pull/663</a
 		>
 		<img src="{base}/images/felt-board.webp" alt="a screenshot of the board" />
 	</DigestItem>
@@ -152,9 +152,9 @@
 		>)
 	</DigestItem>
 	<DigestItem>
-		improved the ability to create a <a href="https://github.com/feltcoop/felt-server">Felt</a>
+		improved the ability to create a <a href="https://github.com/feltjs/felt-server">Felt</a>
 		community and its initial objects from JSON data (<a
-			href="https://github.com/feltcoop/felt-server/pull/643">@feltcoop/felt-server#632</a
+			href="https://github.com/feltjs/felt-server/pull/643">@feltjs/felt-server#632</a
 		>)
 	</DigestItem>
 </Digest>
