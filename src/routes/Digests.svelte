@@ -54,19 +54,19 @@
 					</p>
 				</blockquote>
 				<p>
-					In this model, actors are assigned roles which give permissions. You helped me realize
-					that by splitting permissions among roles we could support non-absolute power with this:
-					<a href="https://hci.social/@ryanatkn/109770994846184255"
+					In this model, actors are assigned roles which have permissions. You helped me realize
+					that by splitting permissions among roles we could support non-absolute power with this: <a
+						href="https://hci.social/@ryanatkn/109770994846184255"
 						>hci.social/@ryanatkn/109770994846184255</a
 					>
 				</p>
 				<p>
-					An all-powerful group actor's actions could result from collective governance processes,
-					or any actors could have mutually co-checking subsets of permissions in a hub
+					An all-powerful group actor's actions could result from collective governance processes
 				</p>
 				<p>
-					I think that means we can support designing systems with structural checks and balances
-					through permission assignment
+					or, I think we can support designing systems with structural checks and balances through
+					permission assignment, so any actors could have mutually co-checking subsets of
+					permissions in a hub
 				</p>
 				<p>
 					That's the first-order UX prioritized by end users. This second part is ignorable by most
