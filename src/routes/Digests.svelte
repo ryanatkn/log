@@ -32,11 +32,10 @@
 					ladder to climb out of the feudal hole.
 				</p>
 				<p>
-					Control is held at the group/org/community level (Felt names these "hubs" now) by
-					"steward" actors. In the default hub template the creator is the steward, but the hub
-					itself has an actor, and control is transferable to or sharable with it. The hub actor's
-					actions are controllable by automated/assisted/direct processes. Other group actors could
-					be involved.
+					Control is held at the group/org/community level (Felt names these "hubs" now) by actors.
+					In the default hub template the creator is the "steward", but the hub itself has an actor,
+					and control is transferable to or sharable with it. The hub actor's actions are
+					controllable by automated/assisted/direct processes. Other group actors could be involved.
 				</p>
 				<blockquote>
 					<p>
