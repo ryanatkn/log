@@ -12,7 +12,7 @@ import{S as Bt,i as Jt,n as zt,j as d,k as $,l as g,f as o,m as k,K as Gt,a as m
 						convenient way to reference the idea, they can be constrained with fine-grained
 						permissions like any other customizable role - this contrasts with Slack (no
 						customizable roles) and Discord (coarse-grained permissions)`),rt=T(),ut=d("p"),$t=l(`given this API you could design a set of roles that split powers, separating/balancing
-						concerns`),wt=T(),bt=d("p"),nt=l(`hub templates make it easy to share pref-fab designs with the initial
+						concerns`),wt=T(),bt=d("p"),nt=l(`hub templates make it easy to share pre-fab designs with the initial
 						roles/permissions/etc`),_t=T(),ct=d("p"),gt=l(`In our implementation, actors are assigned roles which have permissions. You helped me
 					realize that by splitting permissions among roles we could support non-absolute power with
 					this: `),pt=d("a"),K=l("hci.social/@ryanatkn/109770994846184255"),lt=T(),vt=d("p"),O=l("An all-powerful group actor's actions could result from collective governance processes"),ot=T(),mt=d("p"),It=l(`or, I think we can support designing systems with structural checks and balances through
@@ -39,7 +39,7 @@ import{S as Bt,i as Jt,n as zt,j as d,k as $,l as g,f as o,m as k,K as Gt,a as m
 						convenient way to reference the idea, they can be constrained with fine-grained
 						permissions like any other customizable role - this contrasts with Slack (no
 						customizable roles) and Discord (coarse-grained permissions)`),ne.forEach(o),rt=P(Rt),ut=$(Rt,"P",{});var le=g(ut);$t=i(le,`given this API you could design a set of roles that split powers, separating/balancing
-						concerns`),le.forEach(o),wt=P(Rt),bt=$(Rt,"P",{});var ie=g(bt);nt=i(ie,`hub templates make it easy to share pref-fab designs with the initial
+						concerns`),le.forEach(o),wt=P(Rt),bt=$(Rt,"P",{});var ie=g(bt);nt=i(ie,`hub templates make it easy to share pre-fab designs with the initial
 						roles/permissions/etc`),ie.forEach(o),Rt.forEach(o),_t=P(N),ct=$(N,"P",{});var Xt=g(ct);gt=i(Xt,`In our implementation, actors are assigned roles which have permissions. You helped me
 					realize that by splitting permissions among roles we could support non-absolute power with
 					this: `),pt=$(Xt,"A",{href:!0});var fe=g(pt);K=i(fe,"hci.social/@ryanatkn/109770994846184255"),fe.forEach(o),Xt.forEach(o),lt=P(N),vt=$(N,"P",{});var he=g(vt);O=i(he,"An all-powerful group actor's actions could result from collective governance processes"),he.forEach(o),ot=P(N),mt=$(N,"P",{});var ce=g(mt);It=i(ce,`or, I think we can support designing systems with structural checks and balances through
