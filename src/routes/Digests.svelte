@@ -84,6 +84,16 @@
 					has leaned into *explicit* feudalism for their fandom communities, owning it right in the
 					brand! "Be the Monarch of Your Own Realm!"
 				</p>
+				<p>
+					to clarify, "steward" is just the name for a role in the default template and a convenient
+					way to reference the idea, they can be constrained with fine-grained permissions like any
+					other customizable role - this contrasts with Slack (no customizable roles) and Discord
+					(coarse-grained permissions)
+				</p>
+				<p>
+					this low-level system is API for governance processes that get exposed to end users
+					through (ideally friendly) UIs
+				</p>
 			</blockquote>
 		</blockquote>
 	</DigestItem>
