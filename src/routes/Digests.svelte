@@ -49,6 +49,18 @@
 					actions are controllable by automated/assisted/direct processes. Other group actors could
 					be involved.
 				</p>
+				<blockquote>
+					<p>
+						to clarify, "steward" is just the name for a role in the default template and a
+						convenient way to reference the idea, they can be constrained with fine-grained
+						permissions like any other customizable role - this contrasts with Slack (no
+						customizable roles) and Discord (coarse-grained permissions)
+					</p>
+					<p>
+						this low-level system is API for governance processes that get exposed to end users
+						through (ideally friendly) UIs
+					</p>
+				</blockquote>
 				<p>
 					In this model, absolute control still exists at the hub level in some actor(s)' hands. I'm
 					curious where this is incomplete. It seems helpful for humans to think "this actor with
@@ -83,16 +95,6 @@
 					btw I love this so much, Boba Board (<a href="https://www.boba.social/">boba.social</a>)
 					has leaned into *explicit* feudalism for their fandom communities, owning it right in the
 					brand! "Be the Monarch of Your Own Realm!"
-				</p>
-				<p>
-					to clarify, "steward" is just the name for a role in the default template and a convenient
-					way to reference the idea, they can be constrained with fine-grained permissions like any
-					other customizable role - this contrasts with Slack (no customizable roles) and Discord
-					(coarse-grained permissions)
-				</p>
-				<p>
-					this low-level system is API for governance processes that get exposed to end users
-					through (ideally friendly) UIs
 				</p>
 			</blockquote>
 		</blockquote>
