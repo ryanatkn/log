@@ -2,10 +2,13 @@
 	// A list of `DigestItem`s.
 
 	export let date: string;
+
+	$: id = date.replaceAll(' ', '-');
+	$: href = '#' + id;
 </script>
 
 <div class="digest panel markup">
-	<h3>{date}</h3>
+	<h3><a {href} {id}>{date}</a></h3>
 	<ul>
 		<slot />
 	</ul>
