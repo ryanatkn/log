@@ -51,14 +51,15 @@
 				</p>
 				<blockquote>
 					<p>
-						to clarify, "steward" is just the name for a role in the default template and a
+						to clarify, "steward" is just the name for a role in the default hub template and a
 						convenient way to reference the idea, they can be constrained with fine-grained
 						permissions like any other customizable role - this contrasts with Slack (no
 						customizable roles) and Discord (coarse-grained permissions)
 					</p>
+					<p>so you could design a set of roles that split powers, separation of concerns</p>
 					<p>
-						this low-level system is API for governance processes that get exposed to end users
-						through (ideally friendly) UIs
+						this low-level system is API for governance processes that get exposed to end users w/
+						(ideally friendly) UIs
 					</p>
 				</blockquote>
 				<p>
