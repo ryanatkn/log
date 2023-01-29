@@ -54,9 +54,9 @@
 					</p>
 				</blockquote>
 				<p>
-					In this model, actors are assigned roles which have permissions. You helped me realize
-					that by splitting permissions among roles we could support non-absolute power with this: <a
-						href="https://hci.social/@ryanatkn/109770994846184255"
+					In our implementation, actors are assigned roles which have permissions. You helped me
+					realize that by splitting permissions among roles we could support non-absolute power with
+					this: <a href="https://hci.social/@ryanatkn/109770994846184255"
 						>hci.social/@ryanatkn/109770994846184255</a
 					>
 				</p>
