@@ -5,11 +5,10 @@ import{S as Bt,i as Jt,n as zt,j as d,k as $,l as g,f as a,m as k,K as Ut,a as m
 				`),C=d("a"),v=l("ntnsndr.in/ImplicitFeudalism"),j=l(` in mind, I'm curious
 				whether there is any possibility of checking the power of Control? Is there a way in which that
 				could be non-absolute?`),M=T(),L=d("blockquote"),q=d("p"),D=d("a"),p=l("@ryanatkn@hci.social"),I=l(" ("),U=d("a"),st=l("Mastodon"),V=l(`): Yeah! Here's how we're thinking about it right now with Felt. Still ratcheting up the
-					ladder to climb out of the feudal hole.`),W=T(),ot=d("p"),X=l(`Control is held at the group/org/community level (Felt names these "hubs" now) by
-					"steward" actors. In the default hub template the creator is the steward, but the hub
-					itself has an actor, and control is transferable to or sharable with it. The hub actor's
-					actions are controllable by automated/assisted/direct processes. Other group actors could
-					be involved.`),Z=T(),x=d("blockquote"),tt=d("p"),G=l(`to clarify, "steward" is just the name for a role in the default hub template and a
+					ladder to climb out of the feudal hole.`),W=T(),ot=d("p"),X=l(`Control is held at the group/org/community level (Felt names these "hubs" now) by actors.
+					In the default hub template the creator is the "steward", but the hub itself has an actor,
+					and control is transferable to or sharable with it. The hub actor's actions are
+					controllable by automated/assisted/direct processes. Other group actors could be involved.`),Z=T(),x=d("blockquote"),tt=d("p"),G=l(`to clarify, "steward" is just the name for a role in the default hub template and a
 						convenient way to reference the idea, they can be constrained with fine-grained
 						permissions like any other customizable role - this contrasts with Slack (no
 						customizable roles) and Discord (coarse-grained permissions)`),rt=T(),ut=d("p"),$t=l("so you could design a set of roles that split powers, separation of concerns"),wt=T(),bt=d("p"),nt=l(`this low-level system is API for governance processes that get exposed to end users w/
@@ -32,11 +31,10 @@ import{S as Bt,i as Jt,n as zt,j as d,k as $,l as g,f as a,m as k,K as Ut,a as m
 				`),C=$(Dt,"A",{href:!0});var se=g(C);v=i(se,"ntnsndr.in/ImplicitFeudalism"),se.forEach(a),j=i(Dt,` in mind, I'm curious
 				whether there is any possibility of checking the power of Control? Is there a way in which that
 				could be non-absolute?`),Dt.forEach(a),M=P(xt),L=$(xt,"BLOCKQUOTE",{});var N=g(L);q=$(N,"P",{});var Ht=g(q);D=$(Ht,"A",{href:!0});var oe=g(D);p=i(oe,"@ryanatkn@hci.social"),oe.forEach(a),I=i(Ht," ("),U=$(Ht,"A",{href:!0});var ae=g(U);st=i(ae,"Mastodon"),ae.forEach(a),V=i(Ht,`): Yeah! Here's how we're thinking about it right now with Felt. Still ratcheting up the
-					ladder to climb out of the feudal hole.`),Ht.forEach(a),W=P(N),ot=$(N,"P",{});var re=g(ot);X=i(re,`Control is held at the group/org/community level (Felt names these "hubs" now) by
-					"steward" actors. In the default hub template the creator is the steward, but the hub
-					itself has an actor, and control is transferable to or sharable with it. The hub actor's
-					actions are controllable by automated/assisted/direct processes. Other group actors could
-					be involved.`),re.forEach(a),Z=P(N),x=$(N,"BLOCKQUOTE",{});var Rt=g(x);tt=$(Rt,"P",{});var ne=g(tt);G=i(ne,`to clarify, "steward" is just the name for a role in the default hub template and a
+					ladder to climb out of the feudal hole.`),Ht.forEach(a),W=P(N),ot=$(N,"P",{});var re=g(ot);X=i(re,`Control is held at the group/org/community level (Felt names these "hubs" now) by actors.
+					In the default hub template the creator is the "steward", but the hub itself has an actor,
+					and control is transferable to or sharable with it. The hub actor's actions are
+					controllable by automated/assisted/direct processes. Other group actors could be involved.`),re.forEach(a),Z=P(N),x=$(N,"BLOCKQUOTE",{});var Rt=g(x);tt=$(Rt,"P",{});var ne=g(tt);G=i(ne,`to clarify, "steward" is just the name for a role in the default hub template and a
 						convenient way to reference the idea, they can be constrained with fine-grained
 						permissions like any other customizable role - this contrasts with Slack (no
 						customizable roles) and Discord (coarse-grained permissions)`),ne.forEach(a),rt=P(Rt),ut=$(Rt,"P",{});var le=g(ut);$t=i(le,"so you could design a set of roles that split powers, separation of concerns"),le.forEach(a),wt=P(Rt),bt=$(Rt,"P",{});var ie=g(bt);nt=i(ie,`this low-level system is API for governance processes that get exposed to end users w/
