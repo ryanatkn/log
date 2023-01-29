@@ -25,7 +25,67 @@
 		>, "Modeling virtual social spaces: in this house we post cat pics on Saturday", and then
 		<a href="https://hci.social/@ryanatkn/109770113441485629">wrote more on Mastodon</a> in response
 		to some questions by <a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> related to
-		his work describing <a href="https://mediarxiv.org/sf432/">"implicit feudalism"</a>
+		his work describing <a href="https://mediarxiv.org/sf432/">"implicit feudalism"</a>:
+		<blockquote>
+			<blockquote>
+				<a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> (<a
+					href="https://hci.social/@ntnsndr@social.coop/109769071559782405">Mastodon</a
+				>): WIth
+				<a href="https://mediarxiv.org/sf432/">ntnsndr.in/ImplicitFeudalism</a> in mind, I'm curious
+				whether there is any possibility of checking the power of Control? Is there a way in which that
+				could be non-absolute?
+			</blockquote>
+			<blockquote>
+				<p>
+					<a href="https://hci.social/@ryanatkn">@ryanatkn@hci.social</a> (<a
+						href="https://hci.social/@ryanatkn/109770113441485629">Mastodon</a
+					>): Yeah! Here's how we're thinking about it right now with Felt. Still ratcheting up the
+					ladder to climb out of the feudal hole.
+				</p>
+				<p>
+					Control is held at the group/org/community level (Felt names these "hubs" now) by
+					"steward" actors. In the default hub template the creator is the steward, but the hub
+					itself has an actor, and control is transferable to or sharable with it. The hub actor's
+					actions are controllable by automated/assisted/direct processes. Other group actors could
+					be involved.
+				</p>
+				<p>
+					In this model, absolute control still exists at the hub level in some actor(s)' hands. I'm
+					curious where this is incomplete. It seems helpful for humans to think "this actor with
+					the requisite power did the thing" and it's easy to program. An all-powerful group actor's
+					actions could be the result of any collective governance processes.
+				</p>
+				<p>
+					In Felt, actions are serializable data (JSON), so users can make "scripts" that need no
+					sandboxing, e.g. "if $vote passes, do $actions as $actor".
+				</p>
+				<p>
+					That's the first-order UX prioritized by end users. This second part is ignorable by most
+					people most of the time, but for the governance enthusiast:
+				</p>
+				<p>
+					Hubs are hosted on infrastructure controlled by "operator" actors. These have the power to
+					pull the plug, and may technically have hub control bypassing stewards, like modifying a
+					database.
+				</p>
+				<p>
+					Maybe there's instance/server/etc levels between infra and hub, but that's an impl detail.
+					Felt has instances controlled by "admins".
+				</p>
+				<p>
+					The operator actor could be co-ops/nonprofits/other orgs, or as you've written about,
+					bl0ckchains or similar. Bchain enthusiasm makes sense here b/c the operator won't pull the
+					plug or modify the db barring acts of God. <a href="https://www.felt.social/"
+						>Felt.social</a
+					> plans to be a platform co-op operator providing infra.
+				</p>
+				<p>
+					btw I love this so much, Boba Board (<a href="https://www.boba.social/">boba.social</a>)
+					has leaned into *explicit* feudalism for their fandom communities, owning it right in the
+					brand! "Be the Monarch of Your Own Realm!"
+				</p>
+			</blockquote>
+		</blockquote>
 	</DigestItem>
 </Digest>
 <Digest date="Jan 24 2023">
