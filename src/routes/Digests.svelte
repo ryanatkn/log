@@ -13,14 +13,19 @@
 			href="https://np.reddit.com/r/sveltejs/comments/10necle/five_svelte_games_to_learn_how_to_code/"
 			>a long comment</a
 		>
-		about <a href="https://ryanatkn.github.io/svelte-snake-sports">svelte🐍snake🐍sports</a> on aliensite
+		about <a href="https://ryanatkn.github.io/svelte-snake-sports">svelte🐍snake🐍sports</a> (<a
+			href="https://github.com/ryanatkn/svelte-snake-sports">source</a
+		>) on aliensite
 	</DigestItem>
 	<DigestItem>
 		revised and <a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a> about
 		<a
 			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
 			>my second blog post</a
-		>, "Modeling virtual social spaces: in this house we post cat pics on Saturday"
+		>, "Modeling virtual social spaces: in this house we post cat pics on Saturday", and then
+		<a href="https://hci.social/@ryanatkn/109770113441485629">wrote more on Mastodon</a> in response
+		to some questions by <a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> related to
+		his work describing <a href="https://mediarxiv.org/sf432/">"implicit feudalism"</a>
 	</DigestItem>
 </Digest>
 <Digest date="Jan 24 2023">
