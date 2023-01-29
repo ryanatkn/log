@@ -9,14 +9,12 @@
 
 <Digest date="Jan 28 2023">
 	<DigestItem>
-		revised and <a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a> about
+		revised and <a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a> about my second
+		blog post,
 		<a
 			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
-			>my second blog post</a
-		>, "Modeling virtual social spaces: in this house we post cat pics on Saturday", and then
-		<a href="https://hci.social/@ryanatkn/109770113441485629">wrote more on Mastodon</a> in response
-		to some questions from <a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> related
-		to his work describing <a href="https://mediarxiv.org/sf432/">"implicit feudalism"</a>:
+			>"Modeling virtual social spaces: in this house we post cat pics on Saturday"</a
+		>, with more on Mastodon:
 		<blockquote>
 			<blockquote>
 				<a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> (<a
