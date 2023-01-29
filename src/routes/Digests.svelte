@@ -9,15 +9,6 @@
 
 <Digest date="Jan 28 2023">
 	<DigestItem>
-		wrote <a
-			href="https://np.reddit.com/r/sveltejs/comments/10necle/five_svelte_games_to_learn_how_to_code/"
-			>a long comment</a
-		>
-		about <a href="https://ryanatkn.github.io/svelte-snake-sports">svelte🐍snake🐍sports</a> (<a
-			href="https://github.com/ryanatkn/svelte-snake-sports">source</a
-		>) on aliensite
-	</DigestItem>
-	<DigestItem>
 		revised and <a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a> about
 		<a
 			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
@@ -98,6 +89,67 @@
 					brand! "Be the Monarch of Your Own Realm!"
 				</p>
 			</blockquote>
+		</blockquote>
+	</DigestItem>
+	<DigestItem>
+		wrote <a
+			href="https://np.reddit.com/r/sveltejs/comments/10necle/five_svelte_games_to_learn_how_to_code/"
+			>a long comment</a
+		>
+		about <a href="https://ryanatkn.github.io/svelte-snake-sports">svelte🐍snake🐍sports</a> (<a
+			href="https://github.com/ryanatkn/svelte-snake-sports">source</a
+		>) on aliensite:
+		<blockquote>
+			<p>
+				Oh hey I'm the Svelte Snake Sports author, thanks for the mention. A few things if anyone
+				tries to learn from the the code:
+			</p>
+			<ul>
+				<li>
+					The code is not refined at all. Some parts are pretty clean, but at the top level where
+					the games are implemented, it's kind of a mess. If I had more time/energy I'd refactor a
+					lot of things and figure out better interfaces. The goal was to support highly varying
+					kinds of games, and I succeeded at getting my designs to work, but I wouldn't point
+					beginners at the codebase to learn from unless they were very motivated and understood how
+					weird some of it is.
+				</li>
+				<li>
+					There's some experimentation with component instances exporting their objects for external
+					access as an alternative to plain modules or stores -- in particular
+					<a
+						href="https://github.com/ryanatkn/svelte-snake-sports/blob/main/src/lib/SnakeGame.svelte"
+						><code>$lib/SnakeGame.svelte</code></a
+					>. That's why it has <code>{'<'}svelte:options accessors /></code> at the top. I wanted to
+					be able to use Svelte's sweet component-level reactivity. The pattern works but it makes initialization
+					much harder. I'm dubious about its value because of that.
+				</li>
+				<li>
+					The REPL version is broken because some dependencies had major version bumps and the REPL
+					is just importing from unpkg without versions. I was thinking I should bundle everything
+					into a single script -- I have a fork of the repo for publishing to NPM for the REPL
+					because it fails with types in the Svelte files. Pretty hacky all around. I thought the
+					REPL version was important for the project to be more approachable but it's been a
+					headache, mostly because of my own mistakes.
+				</li>
+				<li>
+					I like the AI generated images (it took a <em>while</em> to get cute-looking snakes) but I
+					probably won't do it in the future for this kind of project, I'd draw/code my own or pay artists
+					instead.
+				</li>
+			</ul>
+			<p>It was a lot of fun to make though! I was needing a break from more serious work.</p>
+			<p>
+				Just tried it on mobile and it seems the tap location calculations are off if you're
+				scrolled on the page, I know what I did wrong and will probably fix soon. It's also scaling
+				weirdly when I scroll, darn.
+			</p>
+			<p>
+				Also if you click "show settings" at the bottom you can change the map size and some other
+				things. Lots of potential but I ran out of steam. I have a different [non-snake action
+				game](https://github.com/ryanatkn/cosmicplayground) that I'll probably work on instead when
+				I have that itch to scratch. It has some gameplay but is unfinished/unpolished and it's not
+				communicated well.
+			</p>
 		</blockquote>
 	</DigestItem>
 </Digest>
