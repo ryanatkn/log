@@ -33,8 +33,8 @@
 				</p>
 				<p>
 					Control is held at the group/org/community level (Felt names these "hubs" now) by actors.
-					In the default hub template the creator is the "steward", but the hub itself has an actor,
-					and control is transferable to or sharable with it. The hub actor's actions are
+					In the default hub template the creator gets the all-powerful "steward" role, but the hub
+					itself has an actor, and control is transferable/sharable. The hub actor's actions are
 					controllable by automated/assisted/direct processes. Other group actors could be involved.
 				</p>
 				<blockquote>
@@ -44,10 +44,13 @@
 						permissions like any other customizable role - this contrasts with Slack (no
 						customizable roles) and Discord (coarse-grained permissions)
 					</p>
-					<p>so you could design a set of roles that split powers, separation of concerns</p>
 					<p>
-						this low-level system is API for governance processes that get exposed to end users w/
-						(ideally friendly) UIs
+						given this API you could design a set of roles that split powers, separating/balancing
+						concerns
+					</p>
+					<p>
+						hub templates make it easy to share pref-fab designs with the initial
+						roles/permissions/etc
 					</p>
 				</blockquote>
 				<p>
