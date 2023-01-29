@@ -3,7 +3,7 @@
 
 	export let date: string;
 
-	$: id = date.replaceAll(' ', '-');
+	$: id = date.replaceAll(' ', '-').toLowerCase();
 	$: href = '#' + id;
 </script>
 
