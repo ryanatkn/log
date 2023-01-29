@@ -15,8 +15,8 @@
 			>my second blog post</a
 		>, "Modeling virtual social spaces: in this house we post cat pics on Saturday", and then
 		<a href="https://hci.social/@ryanatkn/109770113441485629">wrote more on Mastodon</a> in response
-		to some questions by <a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> related to
-		his work describing <a href="https://mediarxiv.org/sf432/">"implicit feudalism"</a>:
+		to some questions from <a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> related
+		to his work describing <a href="https://mediarxiv.org/sf432/">"implicit feudalism"</a>:
 		<blockquote>
 			<blockquote>
 				<a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> (<a
