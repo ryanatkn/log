@@ -49,7 +49,7 @@
 						concerns
 					</p>
 					<p>
-						hub templates make it easy to share pref-fab designs with the initial
+						hub templates make it easy to share pre-fab designs with the initial
 						roles/permissions/etc
 					</p>
 				</blockquote>
