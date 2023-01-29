@@ -9,6 +9,13 @@
 
 <Digest date="Jan 28 2023">
 	<DigestItem>
+		wrote <a
+			href="https://np.reddit.com/r/sveltejs/comments/10necle/five_svelte_games_to_learn_how_to_code/"
+			>a long comment</a
+		>
+		about <a href="https://ryanatkn.github.io/svelte-snake-sports">svelte🐍snake🐍sports</a> on aliensite
+	</DigestItem>
+	<DigestItem>
 		revised and <a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a> about
 		<a
 			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
