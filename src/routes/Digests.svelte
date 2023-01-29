@@ -150,10 +150,10 @@
 			</p>
 			<p>
 				Also if you click "show settings" at the bottom you can change the map size and some other
-				things. Lots of potential but I ran out of steam. I have a different [non-snake action
-				game](https://github.com/ryanatkn/cosmicplayground) that I'll probably work on instead when
-				I have that itch to scratch. It has some gameplay but is unfinished/unpolished and it's not
-				communicated well.
+				things. Lots of potential but I ran out of steam. I have a different <a
+					href="https://github.com/ryanatkn/cosmicplayground">non-snake action game</a
+				> that I'll probably work on instead when I have that itch to scratch. It has some gameplay but
+				is unfinished/unpolished and it's not communicated well.
 			</p>
 		</blockquote>
 	</DigestItem>
