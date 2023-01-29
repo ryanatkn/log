@@ -54,14 +54,19 @@
 					</p>
 				</blockquote>
 				<p>
-					In this model, absolute control still exists at the hub level in some actor(s)' hands. I'm
-					curious where this is incomplete. It seems helpful for humans to think "this actor with
-					the requisite power did the thing" and it's easy to program. An all-powerful group actor's
-					actions could be the result of any collective governance processes.
+					In this model, actors are assigned roles which give permissions. You helped me realize
+					that by splitting permissions among roles we could support non-absolute power with this:
+					<a href="https://hci.social/@ryanatkn/109770994846184255"
+						>hci.social/@ryanatkn/109770994846184255</a
+					>
 				</p>
 				<p>
-					In Felt, actions are serializable data (JSON), so users can make "scripts" that need no
-					sandboxing, e.g. "if $vote passes, do $actions as $actor".
+					An all-powerful group actor's actions could result from collective governance processes,
+					or any actors could have mutually co-checking subsets of permissions in a hub
+				</p>
+				<p>
+					I think that means we can support designing systems with structural checks and balances
+					through permission assignment
 				</p>
 				<p>
 					That's the first-order UX prioritized by end users. This second part is ignorable by most
