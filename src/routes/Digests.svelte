@@ -9,8 +9,9 @@
 
 <Digest date="Jan 28 2023">
 	<DigestItem>
-		revised and <a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a> about my second
-		blog post,
+		<a href="https://github.com/ryanatkn/ryanatkn.com/pull/9">revised</a> and
+		<a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a>
+		about my second blog post,
 		<a
 			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
 			>"Modeling virtual social spaces: in this house we post cat pics on Saturday"</a
