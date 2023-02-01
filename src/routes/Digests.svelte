@@ -21,6 +21,11 @@
 		<a href="https://ui.felt.dev/sketch/whiteboard">the whiteboard sketch</a>
 		(pull <a href="https://github.com/feltjs/felt-ui/pull/269">#269</a>)
 	</DigestItem>
+	<DigestItem>
+		in <a href="https://github.com/feltjs/felt-server">felt-server</a> merged a change that allows
+		clients to construct actions using a generic form (pull
+		<a href="https://github.com/feltjs/felt-server/pull/614">#614</a>)
+	</DigestItem>
 </Digest>
 <Digest date="Jan 28 2023">
 	<DigestItem>
