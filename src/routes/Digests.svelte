@@ -7,6 +7,15 @@
 	// TODO change this so each `DigestItem` is a separate component, and drive everything with data
 </script>
 
+<Digest date="Feb 1 2023">
+	<DigestItem>
+		in <a href="https://github.com/feltjs/felt-ui">felt-ui</a> added
+		<a href="https://ui.felt.dev/sketch/library/Whiteboard">Whiteboard.svelte</a>
+		and
+		<a href="https://ui.felt.dev/sketch/whiteboard">the whiteboard sketch</a>
+		(<a href="https://github.com/feltjs/felt-ui/pull/269">PR #269</a>)
+	</DigestItem>
+</Digest>
 <Digest date="Jan 28 2023">
 	<DigestItem>
 		<a href="https://github.com/ryanatkn/ryanatkn.com/pull/9">revised</a> and
