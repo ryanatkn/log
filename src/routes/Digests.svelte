@@ -9,11 +9,17 @@
 
 <Digest date="Feb 1 2023">
 	<DigestItem>
+		deployed the new <a href="https://www.felt.dev/">www.felt.dev</a> (pull
+		<a href="https://github.com/feltjs/felt/pull/5">#5</a>) and
+		<a href="https://ui.felt.dev/">ui.felt.dev</a>
+		(pull <a href="https://github.com/feltjs/felt-ui/pull/273">#273</a>)
+	</DigestItem>
+	<DigestItem>
 		in <a href="https://github.com/feltjs/felt-ui">felt-ui</a> added
 		<a href="https://ui.felt.dev/sketch/library/Whiteboard">Whiteboard.svelte</a>
 		and
 		<a href="https://ui.felt.dev/sketch/whiteboard">the whiteboard sketch</a>
-		(<a href="https://github.com/feltjs/felt-ui/pull/269">PR #269</a>)
+		(pull <a href="https://github.com/feltjs/felt-ui/pull/269">#269</a>)
 	</DigestItem>
 </Digest>
 <Digest date="Jan 28 2023">
