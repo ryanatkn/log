@@ -8,6 +8,9 @@
 
 <style>
 	/* TODO hm */
+	li {
+		padding: var(--spacing_xs3) 0;
+	}
 	li :global(img) {
 		display: block;
 		margin-top: var(--spacing_xs);
