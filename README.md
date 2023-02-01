@@ -9,7 +9,7 @@ I started [log.ryanatkn.com](https://log.ryanatkn.com) with the hope that
 by making more of my process public and open to feedback,
 I'll produce better ideas and code with likeminded people.
 [My blog](https//www.ryanatkn.com/) remains a slow-moving feed that prioritizes quality,
-and this website has some daily notes and highlights.
+and this website has some more frequent notes and highlights organized by day.
 
 ## develop
 
