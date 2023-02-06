@@ -7,6 +7,16 @@
 	// TODO change this so each `DigestItem` is a separate component, and drive everything with data
 </script>
 
+<Digest date="Feb 5 2023">
+	<DigestItem>
+		in <a href="https://github.com/feltjs/felt-ui">felt-ui</a> made
+		<a href="https://ui.felt.dev/sketch/library/Whiteboard">Whiteboard.svelte</a> data-driven, and
+		used those changes to make
+		<a href="https://ui.felt.dev/sketch/whiteboard">the whiteboard sketch</a> collaborative by
+		piggybacking <a href="https://github.com/feltjs/felt-server">felt-server</a>'s infrastructure
+		when iframed (pull <a href="https://github.com/feltjs/felt-ui/pull/274">#274</a>)
+	</DigestItem>
+</Digest>
 <Digest date="Feb 1 2023">
 	<DigestItem>
 		deployed the new <a href="https://www.felt.dev/">www.felt.dev</a> (pull
