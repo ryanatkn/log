@@ -10,8 +10,8 @@
 <Digest date="Feb 5 2023">
 	<DigestItem>
 		in <a href="https://github.com/feltjs/felt-ui">felt-ui</a> made
-		<a href="https://ui.felt.dev/sketch/library/Whiteboard">Whiteboard.svelte</a> data-driven, and
-		used those changes to make
+		<a href="https://ui.felt.dev/library/Whiteboard">Whiteboard.svelte</a> data-driven, and used
+		those changes to make
 		<a href="https://ui.felt.dev/sketch/whiteboard">the whiteboard sketch</a> collaborative by
 		piggybacking <a href="https://github.com/feltjs/felt-server">felt-server</a>'s infrastructure
 		when iframed (pull <a href="https://github.com/feltjs/felt-ui/pull/274">#274</a>)
@@ -26,7 +26,7 @@
 	</DigestItem>
 	<DigestItem>
 		in <a href="https://github.com/feltjs/felt-ui">felt-ui</a> added
-		<a href="https://ui.felt.dev/sketch/library/Whiteboard">Whiteboard.svelte</a>
+		<a href="https://ui.felt.dev/library/Whiteboard">Whiteboard.svelte</a>
 		and
 		<a href="https://ui.felt.dev/sketch/whiteboard">the whiteboard sketch</a>
 		(pull <a href="https://github.com/feltjs/felt-ui/pull/269">#269</a>)
