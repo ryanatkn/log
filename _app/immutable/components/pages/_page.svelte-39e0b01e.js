@@ -7,7 +7,7 @@ import{S as Yt,i as Zt,n as te,j as m,k as d,l as $,f as s,m as E,L as se,a as g
 			that advance the state of the art beyond `),I=m("a"),y=i("React"),c=i(` (and as usual
 			I shill for
 			`),S=m("a"),O=i("Svelte"),p=i("):"),A=L(),C=m("blockquote"),R=m("p"),F=i(`I see two important paradigm shifts away from React. For context I used React for 6 years
-				until switching to Svelte in 2019, and I build JS-heavy long-session experiences optimizing
+				before switching to Svelte in 2019, and I build JS-heavy long-session experiences optimizing
 				UX for incremental updates.`),q=L(),G=m("ol"),P=m("li"),U=i(`How does the framework run _your_ code? Is it re-creating entire components on any change
 					or setting things up once on mount? (and their subtrees, depending on optimizations) Or is
 					it just re-running the bits of your code that need to deal with the change?`),b=L(),j=m("li"),ot=i(`Does the framework ship as a large monolith, or do you get near-optimal output for small
@@ -31,7 +31,7 @@ import{S as Yt,i as Zt,n as te,j as m,k as d,l as $,f as s,m as E,L as se,a as g
 			that advance the state of the art beyond `),I=d(X,"A",{href:!0});var _t=$(I);y=f(_t,"React"),_t.forEach(s),c=f(X,` (and as usual
 			I shill for
 			`),S=d(X,"A",{href:!0});var yt=$(S);O=f(yt,"Svelte"),yt.forEach(s),p=f(X,"):"),X.forEach(s),A=T(H),C=d(H,"BLOCKQUOTE",{});var N=$(C);R=d(N,"P",{});var Lt=$(R);F=f(Lt,`I see two important paradigm shifts away from React. For context I used React for 6 years
-				until switching to Svelte in 2019, and I build JS-heavy long-session experiences optimizing
+				before switching to Svelte in 2019, and I build JS-heavy long-session experiences optimizing
 				UX for incremental updates.`),Lt.forEach(s),q=T(N),G=d(N,"OL",{});var W=$(G);P=d(W,"LI",{});var rt=$(P);U=f(rt,`How does the framework run _your_ code? Is it re-creating entire components on any change
 					or setting things up once on mount? (and their subtrees, depending on optimizations) Or is
 					it just re-running the bits of your code that need to deal with the change?`),rt.forEach(s),b=T(W),j=d(W,"LI",{});var St=$(j);ot=f(St,`Does the framework ship as a large monolith, or do you get near-optimal output for small
