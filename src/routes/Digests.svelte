@@ -39,13 +39,15 @@
 </Digest>
 <Digest date="Jan 28 2023">
 	<DigestItem>
-		<a href="https://github.com/ryanatkn/ryanatkn.com/pull/9">revised</a> and
-		<a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a>
-		about my second blog post,
-		<a
-			href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
-			>"Modeling virtual social spaces: in this house we post cat pics on Saturday"</a
-		>, with more on Mastodon:
+		<p>
+			<a href="https://github.com/ryanatkn/ryanatkn.com/pull/9">revised</a> and
+			<a href="https://hci.social/@ryanatkn/109768104377997044">tooted</a>
+			about my second blog post,
+			<a
+				href="https://www.ryanatkn.com/blog/modeling-virtual-social-spaces-in-this-house-we-post-cat-pics-on-saturday"
+				>"Modeling virtual social spaces: in this house we post cat pics on Saturday"</a
+			>, with more on Mastodon:
+		</p>
 		<blockquote>
 			<blockquote>
 				<a href="https://social.coop/@ntnsndr">@ntnsndr@social.coop</a> (<a
@@ -125,16 +127,19 @@
 					brand! "Be the Monarch of Your Own Realm!"
 				</p>
 			</blockquote>
+			<p><a href="https://hci.social/@ntnsndr@social.coop/109769071559782405">link</a></p>
 		</blockquote>
 	</DigestItem>
 	<DigestItem>
-		wrote <a
-			href="https://np.reddit.com/r/sveltejs/comments/10necle/five_svelte_games_to_learn_how_to_code/"
-			>a long comment</a
-		>
-		about <a href="https://ryanatkn.github.io/svelte-snake-sports">svelte🐍snake🐍sports</a> (<a
-			href="https://github.com/ryanatkn/svelte-snake-sports">source</a
-		>) on aliensite:
+		<p>
+			wrote <a
+				href="https://np.reddit.com/r/sveltejs/comments/10necle/five_svelte_games_to_learn_how_to_code/"
+				>a long comment</a
+			>
+			about <a href="https://ryanatkn.github.io/svelte-snake-sports">svelte🐍snake🐍sports</a> (<a
+				href="https://github.com/ryanatkn/svelte-snake-sports">source</a
+			>) on aliensite:
+		</p>
 		<blockquote>
 			<p>
 				Oh hey I'm the Svelte Snake Sports author, thanks for the mention. A few things if anyone
@@ -186,6 +191,12 @@
 				> that I'll probably work on instead when I have that itch to scratch. It has some gameplay but
 				is unfinished/unpolished and it's not communicated well.
 			</p>
+			<p>
+				<a
+					href="https://np.reddit.com/r/sveltejs/comments/10necle/five_svelte_games_to_learn_how_to_code/"
+					>link</a
+				>
+			</p>
 		</blockquote>
 	</DigestItem>
 </Digest>
@@ -216,10 +227,12 @@
 		>
 	</DigestItem>
 	<DigestItem>
-		posted my Svelte 4 wishlist to
-		<a href="https://np.reddit.com/r/sveltejs/comments/10iud65/comment/j5hh1wi/"
-			>a Reddit thread in /r/sveltejs</a
-		>:
+		<p>
+			posted my Svelte 4 wishlist to
+			<a href="https://np.reddit.com/r/sveltejs/comments/10iud65/comment/j5hh1wi/"
+				>a Reddit thread in /r/sveltejs</a
+			>:
+		</p>
 		<blockquote>
 			<ul>
 				<li>
@@ -259,12 +272,14 @@
 </Digest>
 <Digest date="Jan 17 2023">
 	<DigestItem>
-		added the <code>Board</code> view to Felt - it's like a chat room but upside-down, so the input
-		is at the top and content flows downward, replies are nested, and the newest posts and replies
-		appear at the top:
-		<a href="https://github.com/feltjs/felt-server/pull/663"
-			>github.com/feltjs/felt-server/pull/663</a
-		>
+		<p>
+			added the <code>Board</code> view to Felt - it's like a chat room but upside-down, so the
+			input is at the top and content flows downward, replies are nested, and the newest posts and
+			replies appear at the top:
+			<a href="https://github.com/feltjs/felt-server/pull/663"
+				>github.com/feltjs/felt-server/pull/663</a
+			>
+		</p>
 		<img src="{base}/images/felt-board.webp" alt="a screenshot of the board" />
 	</DigestItem>
 </Digest>
@@ -340,13 +355,5 @@
 		community and its initial objects from JSON data (<a
 			href="https://github.com/feltjs/felt-server/pull/643">@feltjs/felt-server#632</a
 		>)
-	</DigestItem>
-</Digest>
-<Digest date="Dec 30 2022">
-	<DigestItem>
-		created a long-term project named twc (pronounced "twick") that's the
-		<a href="https://wikipedia.org/wiki/Rich_client">thick</a> web client I want to be using (<a
-			href="https://www.twc.land">twc.land</a
-		>, <a href="https://github.com/ryanatkn/twc">source</a>)
 	</DigestItem>
 </Digest>
