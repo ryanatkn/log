@@ -7,6 +7,16 @@
 	// TODO change this so each `DigestItem` is a separate component, and drive everything with data
 </script>
 
+<Digest date="Feb 20 2023">
+	<DigestItem>
+		revamped <a href="https://github.com/feltcoop/dealt">dealt</a>'s camera (pull
+		<a href="https://github.com/feltcoop/dealt/pull/59">#59</a>) and published
+		<a href="https://www.npmjs.com/package/@feltcoop/dealt">@feltcoop/dealt@0.4.0</a>, examples at
+		<a href="https://www.dealt.dev/membrane">dealt.dev/membrane</a>
+		and
+		<a href="https://www.dealt.dev/gravity">dealt.dev/gravity</a>
+	</DigestItem>
+</Digest>
 <Digest date="Feb 5 2023">
 	<DigestItem>
 		in <a href="https://github.com/feltjs/felt-ui">felt-ui</a> made
