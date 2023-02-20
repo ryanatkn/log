@@ -9,7 +9,9 @@
 
 <Digest date="Feb 20 2023">
 	<DigestItem>
-		revamped <a href="https://github.com/feltcoop/dealt">dealt</a>'s camera (pull
+		revamped the camera in <a href="https://github.com/feltcoop/dealt">dealt</a> (<a
+			href="https://www.dealt.dev/">dealt.dev</a
+		>, pull
 		<a href="https://github.com/feltcoop/dealt/pull/59">#59</a>) and published
 		<a href="https://www.npmjs.com/package/@feltcoop/dealt">@feltcoop/dealt@0.4.0</a>, examples at
 		<a href="https://www.dealt.dev/membrane">dealt.dev/membrane</a>
