@@ -7,6 +7,18 @@
 	// TODO change this so each `DigestItem` is a separate component, and drive everything with data
 </script>
 
+<Digest date="Feb 22 2023">
+	<DigestItem>
+		added the hello worlds for <a href="https://www.ssag.dev/">ssag.dev</a> (<a
+			href="https://github.com/ryanatkn/ssag">source</a
+		>, pull
+		<a href="https://github.com/ryanatkn/ssag/pull/1">#1</a>,
+		<a href="https://github.com/ryanatkn/ssag/pull/2">#2</a>) and
+		<a href="https://control.ssag.dev/">control.ssag.dev</a>
+		(<a href="https://github.com/ryanatkn/control.ssag.dev">source</a>, pull
+		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/1">#1</a>)
+	</DigestItem>
+</Digest>
 <Digest date="Feb 20 2023">
 	<DigestItem>
 		revamped the camera in <a href="https://github.com/feltcoop/dealt">dealt</a> (<a
