@@ -16,7 +16,8 @@
 		<a href="https://github.com/ryanatkn/ssag/pull/2">#2</a>) and
 		<a href="https://control.ssag.dev/">control.ssag.dev</a>
 		(<a href="https://github.com/ryanatkn/control.ssag.dev">source</a>, pull
-		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/1">#1</a>)
+		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/1">#1</a>,
+		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/2">#2</a>)
 	</DigestItem>
 </Digest>
 <Digest date="Feb 20 2023">
