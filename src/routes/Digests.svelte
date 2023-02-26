@@ -7,6 +7,15 @@
 	// TODO change this so each `DigestItem` is a separate component, and drive everything with data
 </script>
 
+<Digest date="Feb 25 2023">
+	<DigestItem>
+		changed <a href="https://github.com/feltcoop/dealt">dealt</a> (<a href="https://www.dealt.dev/"
+			>dealt.dev</a
+		>) to have its stages and entities be data-driven, opening up some interesting opportunities (<a
+			href="https://github.com/feltcoop/dealt/pull/62">#62</a
+		>)
+	</DigestItem>
+</Digest>
 <Digest date="Feb 22 2023">
 	<DigestItem>
 		added the hello worlds for <a href="https://www.ssag.dev/">ssag.dev</a> (<a
