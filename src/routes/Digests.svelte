@@ -7,6 +7,13 @@
 	// TODO change this so each `DigestItem` is a separate component, and drive everything with data
 </script>
 
+<Digest date="Mar 1 2023">
+	<DigestItem>
+		added the editor proof-of-concept for <a href="https://control.ssag.dev/">control.ssag.dev</a>,
+		for now press the <code>Escape</code> key to see it (pull
+		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/5">#5</a>)
+	</DigestItem>
+</Digest>
 <Digest date="Feb 25 2023">
 	<DigestItem>
 		changed <a href="https://github.com/feltcoop/dealt">dealt</a> (<a href="https://www.dealt.dev/"
