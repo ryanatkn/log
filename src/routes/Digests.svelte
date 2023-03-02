@@ -9,9 +9,10 @@
 
 <Digest date="Mar 1 2023">
 	<DigestItem>
-		added the editor proof-of-concept for <a href="https://control.ssag.dev/">control.ssag.dev</a>,
-		for now press the <code>Escape</code> key to see it (pull
-		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/5">#5</a>)
+		added the editor proof-of-concept for <a href="https://control.ssag.dev/">control.ssag.dev</a>
+		(pull
+		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/5">#5</a>,
+		<a href="https://github.com/ryanatkn/control.ssag.dev/pull/6">#6</a>)
 	</DigestItem>
 </Digest>
 <Digest date="Feb 25 2023">
